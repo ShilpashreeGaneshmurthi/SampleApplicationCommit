@@ -6,7 +6,7 @@ namespace SampleApplicationCommit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World1!");
+            Console.WriteLine("Test data");
         }
     }
 }
